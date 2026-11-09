@@ -26,4 +26,4 @@ Publisher/product context: https://nimbusai.biz/law . No affiliation with or end
 MIT License. Copyright (c) 2026 Nimbus AI Holdings. See LICENSE.
 
 ## Status
-Local preparation only; no public repository, listing, submission, CLI installation or telemetry seeding. See `RESEARCH-AND-RELEASE.md` and `REVIEW-CHECKLIST.md`.
+Status: reviewed release; synthetic examples only.
